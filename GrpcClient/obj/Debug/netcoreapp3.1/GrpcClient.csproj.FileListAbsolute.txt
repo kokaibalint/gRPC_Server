@@ -2,3 +2,9 @@ C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcCli
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
