@@ -1,5 +1,4 @@
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
-C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
@@ -8,3 +7,11 @@ C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Co
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
 C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache

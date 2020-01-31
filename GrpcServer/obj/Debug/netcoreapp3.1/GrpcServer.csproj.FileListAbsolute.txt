@@ -23,3 +23,4 @@ C:\Users\Balint\source\repos\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.1\GrpcSer
 C:\Users\Balint\source\repos\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.csproj.CopyComplete
 C:\Users\Balint\source\repos\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.dll
 C:\Users\Balint\source\repos\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.pdb
+C:\Users\Balint\source\repos\GrpcDemo\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.csprojAssemblyReference.cache
