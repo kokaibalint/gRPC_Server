@@ -1,0 +1,4 @@
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\Balint\source\repos\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
